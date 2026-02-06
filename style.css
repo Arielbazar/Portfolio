@@ -199,6 +199,10 @@ nav .right a span{
     flex: 8;
 }
 
+.projects-section .Groups .text h3{
+    display: flex;
+    margin-bottom: 10px;
+}
 /* Section 4: Contact */
 .Contact{
     padding: 0 50px;
